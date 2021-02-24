@@ -45,4 +45,3 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Integrate UPDATE (PUT)
 - Integrate a 3rd party API (Ask us for a list)
 - Integrate a UI Library ([Bootstrap](https://getbootstrap.com/), [Semantic UI](https://react.semantic-ui.com/), [React-MD](https://react-md.dev/v1/))
--
