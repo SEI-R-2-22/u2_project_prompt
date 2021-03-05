@@ -1,6 +1,6 @@
-# Project 2 (Full-Stack MERN)
+# Project 2 - Full-Stack MERN
 
-![](https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png")
+![MERN](https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png")
 
 ## Task
 
