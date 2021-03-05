@@ -8,7 +8,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 
 ## For Project Approval
 
-- Detailed README (Title/Your Name, Description, How to Get Started, User Stories, Credits)
+- Detailed README (Name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.)
 - Full Entity Relationship Diagram (ERD) for the backend
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
 
@@ -21,7 +21,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Be a **new repo**. Create a new repo in your github and build your project there. **DO NOT** name your repository Project 2, give it a real name.
 - Have separate directories for the frontend (client) and backend within the main repository.
 - Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/))
-- Your README should have user stories, installation instructions, wireframes for your project, code snippets, and a detailed description of your project.
+- Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Utilize flexbox or grid (or both)
 - Include a minimum of 2 Mongoose Schemas (models)
 - Have (POST, GET, DELETE) operations
