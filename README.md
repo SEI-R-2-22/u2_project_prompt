@@ -31,7 +31,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments should be in your code to describe what your functions are doing.
 - Be deployed on [Heroku](https://www.heroku.com/)
 
-**Project _Completed_ Due Date:** 3/5/21 by 2:30pm EST
+**Project _Completed_ Due Date:** 6/4/21 by 4:30pm EST
 
 ## Tips
 
