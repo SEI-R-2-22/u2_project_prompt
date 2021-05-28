@@ -12,7 +12,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Full Entity Relationship Diagram (ERD) for the backend
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
 
-**Project _Approval_ Due Date:** 3/1/21 by 10:00am EST
+**Project _Approval_ Due Date:** 5/29/21 by 10:00am EST
 
 ## Project Requirements (MVP)
 
