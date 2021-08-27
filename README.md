@@ -11,6 +11,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Detailed README (Name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.)
 - Full Entity Relationship Diagram (ERD) for the backend
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
+- Trello board for tracking your development progress
 
 **Project _Approval_ Due Date:** 8/30/21 by 10:00am EST
 
