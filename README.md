@@ -13,7 +13,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
 - A **public** Trello board for tracking your development progress
 
-**Project _Approval_ Due Date:** 3/28/22 by 9:00am EST
+## **Project _Approval_ Due Date:** 3/28/22 by 9:00am EST
 
 ## Project Requirements (MVP)
 
@@ -34,7 +34,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments should be in your code to describe what your functions are doing.
 - Be deployed on [Heroku](https://www.heroku.com/)
 
-**Project _Completed_ Due Date:** 4/1/22 by 1:30pm EST
+## **Project _Completed_ Due Date:** 4/1/22 by 1:30pm EST
 
 ## Tips
 
