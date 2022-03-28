@@ -4,6 +4,8 @@
 
 ### By: Jason McCoy
 
+#### [Website]() | [GitHub](https://github.com/MC-JSON) | [LinkedIn](https://www.linkedin.com/in/jason-mccoy-21b56022b/)
+
 ---
 
 [Trello](https://trello.com/b/z5hmimiK/mern-project)
