@@ -1,59 +1,51 @@
-# Project 2 - Full-Stack MERN
+# You and I Are Earth Ceramics
 
-![MERN](https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png")
+### Date: 4/01/2022
 
-## Task
+### By: Jason McCoy
 
-Your task is to build a full-stack (Mongoose/Express/React/Node), professional-looking application with a functioning backend and frontend. Your website should allow users to interact with its pages, make _requests_ (buttons, HTML forms, dropdowns, searchbars, etc.) to your backend, and *display the data* (text, images, etc.) in a meaningful way. Try to think about building an application that will create an engaging user experience.
+---
 
-## For Project Approval
+[Trello](https://trello.com/b/z5hmimiK/mern-project)
 
-- Detailed README (Name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.)
-- Full Entity Relationship Diagram (ERD) for the backend
-- Component Hierarchy Diagram (Lucidchart or other) for the frontend
-- A **public** Trello board for tracking your development progress
+[DrawlO](https://app.diagrams.net/#G1CVEFtM7jK02GvulxLB7FQN8Lazh5vFjw)
 
-## **Project _Approval_ Due Date:** 3/28/22 by 9:00am EST
+---
 
-## Project Requirements (MVP)
+### Description
 
-**Your project must:**
+Welcome to You & I Are Earth Ceramics website!
 
-- Be a **new repo**. Create a new repo in your github and build your project there. **DO NOT** name your repository Project 2, give it a real name.
-- Be written using the languages and frameworks *learned in this course so far*
-- ***Not*** be written using *any other languages or frameworks ***not*** covered in this course so far* (TypeScript, Sass, jQuery, UI Frameworks, etc.)
-- Have a separate directory for the frontend (client) and have your backend within the main repository.
-- Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/))
-- Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
-- Utilize flexbox or grid (or both)
-- Include a minimum of 2 Mongoose Schemas (models)
-- Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations
-- Display data from each model on the frontend (unless given an exemption on one by an Instructor)
-- Must be able to navigate between different pages (React Router)
-- Have at least **40 _meaningful_ `git` commits**. You should be committing your changes every time you build a new feature.
-- Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments should be in your code to describe what your functions are doing.
-- Be deployed on [Heroku](https://www.heroku.com/)
+We showcase the small-batch ceramic products by the artist Jessica McCoy. We have a listing of the ceramics created by this artist.
 
-## **Project _Completed_ Due Date:** 4/1/22 by 1:30pm EST
+The works are showcased on a full-stack MERN application.
 
-## Tips
+---
 
-- Chat and bounce ideas off your classmates and gather useful feedback
-- Commit early (day one) and often (everytime you implement a new feature)
-- Implement all project requirements _before_ moving on to post-MVP features
-- Make it look professional (this is for you to showcase - it could land you a job)
+## Technologies
 
-## Post-MVP Ideas
+1.  React
+2.  MongoDB
+3.  Mongoose
+4.  Express
+5.  Node
 
-**Before attempting _any_ of these post-MVP ideas, you must demonstrate your working MVP to your instructor, then attempt these on a _new branch_ 
+---
 
-- Hidden routes using conditional rendering to mimic the functionality of user authentication
-- Associate 2 or more of your models
-- Integrate unit testing
-- Integrate a 3rd party API (Ask us for a list)
+## **MVP**
 
-## A Note on Plagiarism
-  
-- Plagiarism is a serious offense and grounds for immediate withdrawal.
-- You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is ***not acceptable to copy*** another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.
-- Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to ***ask your instructor***. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.
+- [ ] Get (Read)
+- [ ] Post (Create)
+- [ ] Update
+- [ ] Delete
+- [ ] Mongoose/Express
+- [ ] React
+- [ ] Style
+
+---
+
+### **Credits**
+
+### You and I Are Earth: [Instagram](https://www.instagram.com/youandiareearthceramics/)
+
+### You and I Are Earth: [Etsy](https://www.etsy.com/shop/YouandIareEarth)
